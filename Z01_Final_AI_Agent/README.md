@@ -62,7 +62,7 @@ The system follows a modular and extensible design to manage tasks effectively:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/R2D2/research-assistant-agent.git
+   git clone [https://github.com/R2D2/research-assistant-agent.git](https://github.com/R2D2-ML/Deep-Learning-2376-Portfolio.git)
    cd research-assistant-agent
    
 2. **Install Depedancies:**
