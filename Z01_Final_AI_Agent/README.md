@@ -65,16 +65,16 @@ The system follows a modular and extensible design to manage tasks effectively:
    git clone https://github.com/yourusername/research-assistant-agent.git
    cd research-assistant-agent
    
-**Install Depedancies:**
+2. **Install Depedancies:**
     ```bash
     pip install -r requirements.txt
 
-**Add environment variables:**
+3. **Add environment variables:**
     ```bash
     OPENAI_API_KEY=your_openai_key
     FIRECRAWL_API_KEY=your_firecrawl_key
 
-**Run the agent:**
+4. **Run the agent:**
     ```bash
     python src/main.py
 
