@@ -66,13 +66,16 @@ The system follows a modular and extensible design to manage tasks effectively:
    cd research-assistant-agent
    
 **Install Depedancies:**
-- pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 **Add environment variables:**
-- OPENAI_API_KEY=your_openai_key
-- FIRECRAWL_API_KEY=your_firecrawl_key
+    ```bash
+    OPENAI_API_KEY=your_openai_key
+    FIRECRAWL_API_KEY=your_firecrawl_key
 
 **Run the agent:**
-- python src/main.py
+    ```bash
+    python src/main.py
 
 
